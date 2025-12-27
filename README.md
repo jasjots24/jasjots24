@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasjot Singh</h1>
-<h3 align="center">Aspiring Software Developer | Eager to learn, Code, and Innovate | Seeking Opportunities to kickstart my Dev Journey💻🚀 | Let's Connect!</h3>
+<h3 align="center"> Full Stack Developer | Eager to learn, Code, and Innovate | Seeking Opportunities to kickstart my Dev Journey💻🚀 | Let's Connect!</h3>
 
 <p align="left"> <a href="https://twitter.com/jasjots03473182" target="blank"><img src="https://img.shields.io/twitter/follow/jasjots03473182?logo=twitter&style=for-the-badge" alt="jasjots03473182" /></a> </p>
 
